@@ -1,2 +1,2 @@
 # RPNetV2
-If our paper is accepted, we will be very willing to share the source code for RPNetV2 with you all.
+The source code for RPNetV2 will be published when this paper is accepted. Please refer to subsequent updates.
